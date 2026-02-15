@@ -1,4 +1,4 @@
-##### A Simple Application writen by go language for room reservation .
+### A Simple Application writen by go language for room reservation .
 
 #### Fearures :
 1. Add Room
@@ -11,5 +11,4 @@
 go run main.go
 ```
 
-##### All Rights , Reserved 2026 .
-##### Developed By Ho3einTahan 
+##### © 2026 Ho3einTahan. All rights reserved. Developed and maintained by Ho3einTahan.
